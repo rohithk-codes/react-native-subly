@@ -17,4 +17,10 @@ It is just like safe zone to render the content with in without covered by the d
 
 Image component use the render the imges as a source url and ImageBackground component use to set imageBackground
 
+<!-- File based Routes -->
+files automatically become routes
+
+<!-- Route group -->
+
+Route groups is a folder wrapped in paranthesis which organise related screen into folder wihout adding the folderName to the url
 
