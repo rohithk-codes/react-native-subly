@@ -18,6 +18,7 @@ import spotify from "@/assets/icons/spotify.png";
 import wallet from "@/assets/icons/wallet.png";
 import insights from "@/assets/icons/insights.png";
 import subscriptions from "@/assets/icons/subscriptions.png";
+
 export const icons = {
     home,
     wallet,
