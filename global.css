@@ -159,7 +159,7 @@
     }
 
     .sub-head {
-        @apply flex-row items-center py-2;
+        @apply flex-row items-center py-2 ;
     }
 
     .sub-main {
